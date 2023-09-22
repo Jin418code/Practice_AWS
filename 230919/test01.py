@@ -1,0 +1,2 @@
+def getSalary(a, b) :
+    
